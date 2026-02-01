@@ -1,8 +1,11 @@
-# 👋 Davide De Carli | **Ft-Systems™**
+
+<img width="494" height="381" alt="image" src="https://github.com/user-attachments/assets/49ee759a-e686-4bc8-87c6-a6a4809a01b7" />
+
+ Davide De Carli | **Ft-Systems™**
 
 ### 🚀 AI Systems Architect • Full-Stack Developer • Automation Specialist
 
-> Creo sistemi e automazioni AI su misura, dal design al deployment. Fondatore di **Ft-Systems™**
+ Creo sistemi e automazioni AI su misura, dal design al deployment. Fondatore di **Ft-Systems™**
 
 ---
 
@@ -41,7 +44,7 @@
 ## 🎯 Featured Projects
 
 ### 🗺️ **EasyTourist / QRDen**
-Piattaforma intelligente per turismo basata su QR code dinamici  
+Piattaforma intelligente per turismo basata su code dinamici  
 `TypeScript` `Next.js` `Prisma` `MVP`
 
 ### 🤖 **ArcSystem™**
@@ -53,7 +56,7 @@ Automazione multimodale: GPT → DALL·E → ElevenLabs → YouTube
 `Python` `n8n` `FFmpeg` `Content Automation`
 
 ### 💻 **My Local WebApp**
-Web application locale per gestione dati e automazioni  
+Web application per gestione Locali
 `JavaScript` `Node.js` `Local-First Architecture`
 
 ---
