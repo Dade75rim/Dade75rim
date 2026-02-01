@@ -165,6 +165,5 @@
 
 ---
 
-**Creato da:** Perplexity AI Assistant  
-**Per:** Davide De Carli | Freedom Tailor | Ft-Systems™  
+**Creato da:  **Davide De Carli | Freedom Tailor | Ft-Systems™  
 **Data:** 2026-02-01
