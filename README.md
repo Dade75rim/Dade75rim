@@ -11,7 +11,7 @@
 
 ## 💼 About Me
 
-🔧 Specializzo in **architetture AI end-to-end**, web app full-stack e **automazioni intelligenti**  
+🔧 Specializzato in **architetture AI end-to-end**, web app full-stack e **automazioni intelligenti**  
 🎯 Trasformo idee in prodotti scalabili con focus su **efficienza e innovazione**  
 🌐 Base: **Rimini, Italia** | Lavoro con clienti globali
 
